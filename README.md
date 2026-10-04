@@ -4,7 +4,7 @@
       <strong>Hi, I’m Saurabh Sharma 👋</strong>
     </td>
     <td align="center" width="70%">
-      <h1>Data Analyst | Applied Data Analytics</h1>
+      <h1>Aspiring Data Analyst</h1>
     </td>
   </tr>
 </table>
