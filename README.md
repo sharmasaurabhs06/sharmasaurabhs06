@@ -10,7 +10,7 @@
 </table>
 
        
-<img src="https://komarev.com/ghpvc/?username=kumod007&style=flat-square&color=blue" alt=""/>
+<img src="https://komarev.com/ghpvc/?username=sharmasaurabhs06&style=flat-square&color=blue" alt=""/>
 
 <div align="center">
   
@@ -29,46 +29,38 @@
 
 <h1>About Me 👨‍💻</h1>
 
-- 🎓 I'm currently pursuing [Your Degree] at [College/University]
+- 🎓 I'm currently pursuing Master of Computer Applications (MCA) at Graphic Era University
 - 📊 I'm interested in Data Analytics, Data Visualization & Business Intelligence
-- 🌱 Currently learning [SQL / Python / Power BI / Tableau / Excel]
+- 🌱 Currently learning [SQL / Python / Power BI / Excel]
 - 🔍 I enjoy exploring datasets, identifying patterns, and finding actionable insights
 - 📈 I love creating dashboards and visualizations that make data easy to understand
 - 🧠 I'm continuously improving my skills in data cleaning, analysis, and visualization
-- 🤝 Open to collaborating on Data Analytics & Business Intelligence projects
 - 📫 How to reach me: <a href="mailto:sharmasaurabhs887@gmail.com">sharmasaurabhs887@gmail.com</a> | or connect with me on <a href="https://www.linkedin.com/in/saurabh-sharma-82a2a8217/">My LinkedIn.</a>
 
 <br>
-<br>
 
 # 💻 Tech Stack:
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=azure-devops&logoColor=white) ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white) ![SciPy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-%2300f.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![Python](https://img.shields.io/badge/Python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white)
+![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=matplotlib&logoColor=black)
+![Seaborn](https://img.shields.io/badge/Seaborn-%234C72B0.svg?style=for-the-badge&logo=seaborn&logoColor=white)<br>
+![Excel](https://img.shields.io/badge/Excel-%23217346.svg?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power%20BI-%23F2C811.svg?style=for-the-badge&logo=powerbi&logoColor=black)
+![Generative AI](https://img.shields.io/badge/Generative%20AI-%23412991.svg?style=for-the-badge&logo=openai&logoColor=white)
 
 <br>
-<br>
-
 <h1>🎯 My Goal</h1>
 <p> To turn data into clear, actionable insights and continuously grow as a data professional. </p>
+<br>
 
 # :fire: My Stats:
 
-
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=sharmasaurabhs06&theme=highcontrast&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
+<br> 
+
 <h1>📫 Let's Connect</h1>
-<p>💼 LinkedIn: [Your LinkedIn]</p> 
-<p>📧 Email: [Your Email]</p>
-<p>🐙 GitHub: [Your GitHub]</p>
-
-
-## 🛠️ Tech Stack
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=python,pandas,numpy,mysql,postgres,html&perline=5" />
-  <br><br>
-  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
-  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" />
-  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Generative%20AI-412991?style=for-the-badge&logo=openai&logoColor=white" />
-</p>
+<p>💼 LinkedIn: https://www.linkedin.com/in/saurabh-sharma-82a2a8217/ </p> 
+<p>📧 Email: sharmasaurabhs887@gmail.com</p>
