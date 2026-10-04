@@ -4,7 +4,7 @@
       <strong>Hi, I’m Saurabh Sharma 👋</strong>
     </td>
     <td align="center" width="70%">
-      <h1>Aspiring Data Analyst</h1>
+      <h1>Data Analyst | Turning Data into Insights</h1>
     </td>
   </tr>
 </table>
@@ -53,6 +53,14 @@
 <br>
 <h1>🎯 My Goal</h1>
 <p> To turn data into clear, actionable insights and continuously grow as a data professional. </p>
+<br>
+
+## 📜 Certifications
+- Data Analytics Job Simulation (Deloitte)
+- SQL Certificate of Accomplishment (Hacker Rank)
+- GenAI Powered Data Analytics Job Simulation (Tata)
+- Power BI (Microsoft(Simplilearn))
+
 <br>
 
 # :fire: My Stats:
