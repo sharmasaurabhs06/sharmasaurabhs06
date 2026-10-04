@@ -51,15 +51,17 @@
 ![Generative AI](https://img.shields.io/badge/Generative%20AI-%23412991.svg?style=for-the-badge&logo=openai&logoColor=white)
 
 <br>
-<h1>🎯 My Goal</h1>
-<p> To turn data into clear, actionable insights and continuously grow as a data professional. </p>
-<br>
 
 ## 📜 Certifications
 - Data Analytics Job Simulation (Deloitte)
 - SQL Certificate of Accomplishment (Hacker Rank)
 - GenAI Powered Data Analytics Job Simulation (Tata)
 - Power BI (Microsoft(Simplilearn))
+
+<br>
+
+<h1>🎯 My Goal</h1>
+<p> To turn data into clear, actionable insights and continuously grow as a data professional. </p>
 
 <br>
 
