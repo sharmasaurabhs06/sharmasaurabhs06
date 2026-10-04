@@ -61,10 +61,14 @@
 <p>🐙 GitHub: [Your GitHub]</p>
 
 
-## 💻 Tech Stack:
+## 🛠️ Tech Stack
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python,html,mysql,postgres&perline=10" />
-  <br>
-  <img src="https://skillicons.dev/icons?i=numpy,pandas,matplotlib,seaborn" />
+  <img src="https://skillicons.dev/icons?i=python,pandas,numpy,mysql,postgres,html&perline=5" />
+  <br><br>
+  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
+  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" />
+  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Generative%20AI-412991?style=for-the-badge&logo=openai&logoColor=white" />
 </p>
