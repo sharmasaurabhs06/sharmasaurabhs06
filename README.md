@@ -34,7 +34,7 @@
 - 🏢 Currently employed as a Data Analyst in a Marketing Research company.
 - ⚡ In my free time, I love to solve problems on HackerRank and read tech articles.
 - 😆 Fun fact: If data science were a sport, I'd be the MVP of finding patterns in numbers and predicting the future!
-- 📫 How to reach me: <a href="mailto:sharmasaurabhs887@gmail.com">kumod.aws@gmail.com</a> | or connect with me on <a href="https://www.linkedin.com/in/saurabh-sharma-82a2a8217/">My LinkedIn.</a>
+- 📫 How to reach me: <a href="mailto:sharmasaurabhs887@gmail.com">sharmasaurabhs887@gmail.com</a> | or connect with me on <a href="https://www.linkedin.com/in/saurabh-sharma-82a2a8217/">My LinkedIn.</a>
 
 <br>
 <br>
