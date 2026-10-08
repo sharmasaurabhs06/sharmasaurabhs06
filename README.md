@@ -18,7 +18,7 @@
 </div>
 <div align="center">
 <div id="badges">
-  <a href="https://www.linkedin.com/in/saurabh-sharma-82a2a8217/">
+  <a href="https://www.linkedin.com/in/saurabh-sharma-3340a535b/">
     <img src="https://img.shields.io/badge/LinkedIn-darkblue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
   <a href="https://www.hackerrank.com/profile/saurabh_sharmas1">
@@ -35,7 +35,7 @@
 - 🔍 I enjoy exploring datasets, identifying patterns, and finding actionable insights
 - 📈 I love creating dashboards and visualizations that make data easy to understand
 - 🧠 I'm continuously improving my skills in data cleaning, analysis, and visualization
-- 📫 How to reach me: <a href="mailto:sharmasaurabhs887@gmail.com">sharmasaurabhs887@gmail.com</a> | or connect with me on <a href="https://www.linkedin.com/in/saurabh-sharma-82a2a8217/">My LinkedIn.</a>
+- 📫 How to reach me: <a href="mailto:sharmasaurabhs887@gmail.com">sharmasaurabhs887@gmail.com</a> | or connect with me on <a href="https://www.linkedin.com/in/saurabh-sharma-3340a535b/">My LinkedIn.</a>
 
 <br>
 
@@ -72,5 +72,5 @@
 <br> 
 
 <h1>📫 Let's Connect</h1>
-<p>💼 LinkedIn: https://www.linkedin.com/in/saurabh-sharma-82a2a8217/ </p> 
+<p>💼 LinkedIn: https://www.linkedin.com/in/saurabh-sharma-3340a535b/ </p> 
 <p>📧 Email: sharmasaurabhs887@gmail.com</p>
